@@ -1,0 +1,16 @@
+{
+  "name": "node_testing",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "antonioguiotto": "node ./scripts/antonioguiotto.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^10.0.0",
+    "selenium-webdriver": "^4.1.0"
+  }
+}
