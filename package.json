@@ -4,7 +4,9 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "antonioguiotto": "node ./scripts/antonioguiotto.js"
+    "antonioguiotto": "node ./scripts/antonioguiotto.js",
+    "badoo": "node ./scripts/badoo.js",
+    "tinder": "node ./scripts/tinder.js"
   },
   "keywords": [],
   "author": "",
